@@ -31,13 +31,13 @@ p {
 /* Fonts */
 @font-face {
   font-family: 'Spartan Medium';
-  src: url('./fonts/Spartan/Spartan-Medium.ttf');
+  src: url('../fonts/Spartan/Spartan-Medium.ttf');
   format: 'true-type';
 }
 
 @font-face {
   font-family: 'Spartan Bold';
-  src: url('./fonts/Spartan/Spartan-bold.ttf');
+  src: url('../fonts/Spartan/Spartan-bold.ttf');
   format: 'true-type';
 }
 
